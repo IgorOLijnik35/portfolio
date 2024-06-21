@@ -1,0 +1,237 @@
+@media screen and (min-width:680px) and (max-width:1280px){
+	*{
+	margin: 0 auto;
+	padding: 0;
+}
+.contact{
+	width: 100px;
+	grid-template-columns: 409px;
+	grid-template-rows: 80px 30px 30px 30px 120px;
+}
+.a{
+	width:409px ;
+}
+.b{
+	width:409px;
+}
+.button{
+width: 185px;
+margin-top: 20px;
+height: 20px;
+}
+.text{
+	font-size: 14px;
+}
+.nav{
+	
+	height: 80px;
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+	align-items: center;
+
+}
+.p{
+	
+	height: 46px;
+	background: white;
+	border-radius: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.text5{
+	color: black;
+}
+.image{
+	width: 40px;
+height: 35.5px;
+
+
+
+}
+.text7{
+	
+height: 58px;
+font-family: Raleway;
+font-size: 40px;
+font-weight: 700;
+line-height: 46.96px;
+
+
+}
+.text8{
+width: 355px;
+height: 105px;
+font-family: Raleway;
+font-size: 50px;
+font-weight: 700;
+line-height: 93.92px;
+
+
+
+
+}
+.text9{
+	width:255px;	
+height: 40px;
+font-family: Raleway;
+font-size: 25px;
+font-weight: 800;
+line-height: 29.35px;
+
+
+
+
+}
+.glovniy{
+width: 320px;
+height: 377px;
+
+
+}
+.golovne{
+	background:lightslategray;
+	display: flex;
+	justify-content: space-between;
+}
+.display{
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+}
+.tekstu{
+	display: flex;
+	flex-direction: column;
+}
+.teksti{
+	display: flex;
+	flex-direction:column;
+}
+.me{
+display: flex;
+
+height: 74px;
+font-family: Montserrat;
+font-size: 30px;
+font-weight: 500;
+line-height: 18.37px;
+letter-spacing: 0.3554em;
+justify-content: center;
+border: 5px solid black; 
+align-items: center;
+margin-top:102px;
+}
+.text10{
+	
+height: 47px;
+font-family: 'Open Sans';
+font-size: 15px;
+font-weight: 400;
+line-height: 20.8px;
+text-align: center;
+margin-top: 71px;
+margin-bottom: 20px;
+width: 460px;
+}
+.des{
+width: 77px;
+height: 74px;
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 700;
+line-height: 26.82px;
+letter-spacing: 0.1854em;
+text-align: center;
+
+		
+}
+.text11{
+width: 231px;
+height: 104px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 300;
+line-height: 19.07px;
+}
+.develop{
+
+height: 74px;
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 700;
+line-height: 26.82px;
+letter-spacing: 0.1854em;
+text-align: center;
+}
+.designu{
+	display: flex;
+	justify-content: space-between;
+}
+.text12{
+	display: flex;
+
+height: 74px;
+font-family: Montserrat;
+font-size: 30px;
+font-weight: 700;
+line-height: 38.37px;
+letter-spacing: 0.3554em;
+justify-content: center;
+border: 7px solid black; 
+align-items: center;
+}
+.us{
+width: 680px;
+height: 74px;
+font-family: Montserrat;
+font-size: 30px;
+font-weight: 700;
+line-height: 36.57px;
+letter-spacing: 0.1854em;
+text-align: left;
+margin-top:79px
+
+}
+.slik{
+width: 64.21px;
+height: 100px;
+
+
+}
+.text13{
+
+height: 52px;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 400;
+line-height: 29.26px;
+letter-spacing: 0.1354em;
+
+
+
+}
+.imgs{
+	display:grid;
+
+	grid-template-columns: repeat(4,160px);
+	justify-content: center;
+}
+.images{
+	margin-top:40px;
+}
+.footer{
+
+}
+.portfolio{
+	display: grid;
+	grid-template-columns: repeat(2,300px);
+	grid-template-rows: repeat(2,330px);
+	gap:50px;
+}
+.zobra{
+	width: 300px;
+	height: 207px;
+	margin-top: 0;
+}
+}
